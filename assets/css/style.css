@@ -1,0 +1,51 @@
+/*Fuente de la página*/
+body {
+    font-family: "Open Sans", sans-serif;
+    color: #212529;
+}
+
+/*Dimensiones logo de la barra de navegación*/
+.navbar-logo {
+    height: 53px;
+    width: 132px;
+}
+
+/*Quitar estilo de los hipervínculos de la barra de navegación*/
+.navbar ul li a {
+    text-decoration: none;
+}
+
+/*Color de fondo de la barra de navegación y el footer*/
+.pink-bg {
+    background-color: #e83e8c;
+}
+
+/*Título principal*/
+h1 {
+    color: #212529;
+}
+
+/*Posición título de icons-section*/
+h2 {
+    display: inline-block;
+    margin-right: 100px;
+}
+
+/*Posición íconos de icons-section*/
+.icons-section i {
+    display: inline-block;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+/*Dimensiones logo footer*/
+.suricata-logo {
+    width: 53px;
+    height: 132px;
+}
+
+/*Tamaño de las cartas*/
+.card {
+    width: 75%;
+    margin: auto;
+}
